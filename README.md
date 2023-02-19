@@ -2,7 +2,7 @@
 
 - 🎓 I’m currently implement in my thesis [ArHistory](https://github.com/NikolaosProgios/ArHistory), for completion of my Bachelor's degree 
 - 🔭 I am currently working at [FoodTec Solutions](https://www.linkedin.com/company/foodtec-solutions-inc/), in the Greek branch, doing my Internship as Software Developer in the Mobile (Android) Team
-- 📫 How to reach me: in [my inkedIn profile](https://www.linkedin.com/in/nikolaos-progios/)
+- 📫 How to reach me: in [my LinkedIn profile](https://www.linkedin.com/in/nikolaos-progios/)
 
 <!--
 **NikolaosProgios/NikolaosProgios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
