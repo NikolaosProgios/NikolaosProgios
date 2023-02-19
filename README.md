@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my  [ArHistory](https://github.com/NikolaosProgios/ArHistory)
+- 🔭 I’m currently working in my thesis [ArHistory](https://github.com/NikolaosProgios/ArHistory), for completion of my Bachelor's degree 
 
 <!--
 **NikolaosProgios/NikolaosProgios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
