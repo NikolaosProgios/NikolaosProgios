@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working in my thesis [ArHistory](https://github.com/NikolaosProgios/ArHistory), for completion of my Bachelor's degree 
+- 🔭 I am currently working at FoodTec Solutions, in the Greek branch, doing my Internship as Software Developer in the Mobile (Android) Team
 
 <!--
 **NikolaosProgios/NikolaosProgios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
