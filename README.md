@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🎓 I’m currently implement in my thesis [ArHistory](https://github.com/NikolaosProgios/ArHistory) <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"/>, for completion of my Bachelor's degree 
-- 🔭 I am currently working at [FoodTec Solutions](https://www.linkedin.com/company/foodtec-solutions-inc/) <img src="https://foodtecsolutions.com/fts-content/uploads/sites/77/2018/03/flogo-2x.png" alt="unity" width="55" height="20"/>, in the Greek branch, doing my Internship as Software Developer in the Mobile (Android) Team
+- 🎓 I’m currently implement in my thesis [ArHistory](https://github.com/NikolaosProgios/ArHistory), for completion of my Bachelor's degree 
+- 🔭 I am currently working at [FoodTec Solutions](https://www.linkedin.com/company/foodtec-solutions-inc/), in the Greek branch, doing my Internship as Software Developer in the Mobile (Android) Team
 - 📫 Connect with me: <a href="https://linkedin.com/in/nikolaos-progios" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nikolaos-progios" height="25" width="35"/></a>
 
 <!--
