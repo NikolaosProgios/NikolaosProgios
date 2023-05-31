@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎓 I’m currently implement in my thesis [ArHistory](https://github.com/NikolaosProgios/ArHistory), for completion of my Bachelor's degree.
-- 🔭 I am currently working at [FoodTec Solutions](https://www.linkedin.com/company/foodtec-solutions-inc/), in the Greek branch, as Android Developer.
+- 🔭 I am currently working as Android Developer.
 - 📫 Connect with me: <a href="https://linkedin.com/in/nikolaos-progios" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nikolaos-progios" height="22" width="35"/></a>
 
 <!--
