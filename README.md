@@ -29,8 +29,6 @@ I'm a Mobile Engineer with over 3 years of experience specializing in **Flutter 
 ### 📫 Connect with Me
 - 💼 **LinkedIn:** [Nikolaos Progios](https://www.linkedin.com/in/nikolaos-progios/)
 
-- 📫 Connect with me: <a href="https://linkedin.com/in/nikolaos-progios" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nikolaos-progios" height="22" width="35"/></a>
-
 <!--
 **NikolaosProgios/NikolaosProgios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
