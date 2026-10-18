@@ -10,8 +10,8 @@ I'm a Mobile Engineer with over 4 years of experience specializing in **Flutter 
 
 - **Languages:** Dart, Kotlin, Java
 - **Frameworks & UI:** Flutter, Jetpack Compose
-- **Architecture & Design:** MVVM, MVC, MVP, Clean Architecture, State Management
-- **Databases & Cloud:** Room, SQLite, Firebase
+- **Architecture & Design:** MVVM, MVC, MVP, MVI
+- **Databases & Cloud:** SQLite, Firebase, Room, SharedPreference
 - **DevOps & CI/CD:** Automated iOS & Android Build & Release Pipelines, Git
 - **Backend Knowledge:** Spring Boot REST APIs (Kotlin/Gradle)
 
