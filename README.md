@@ -2,7 +2,7 @@
 
 ### 📱 Mobile Engineer | Flutter & Android Specialist
 
-I'm a Mobile Engineer with over 3 years of experience specializing in **Flutter & Dart** cross-platform development and **Native Android (Kotlin/Java)**. I focus on building scalable architectures (MVVM/MVC), integrating seamless payment flows, automating CI/CD pipelines, and mentoring developers.
+I'm a Mobile Engineer with over 4 years of experience specializing in **Flutter & Dart** cross-platform development and **Native Android (Kotlin/Java)**. I focus on building scalable architectures (MVVM/MVC), integrating seamless payment flows, automating CI/CD pipelines, and mentoring developers.
 
 ---
 
